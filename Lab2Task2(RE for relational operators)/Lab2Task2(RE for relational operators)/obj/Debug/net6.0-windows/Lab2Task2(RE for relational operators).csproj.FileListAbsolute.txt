@@ -1,0 +1,16 @@
+C:\Users\pak\source\repos\Lab2Task2(RE for relational operators)\Lab2Task2(RE for relational operators)\bin\Debug\net6.0-windows\Lab2Task2(RE for relational operators).exe
+C:\Users\pak\source\repos\Lab2Task2(RE for relational operators)\Lab2Task2(RE for relational operators)\bin\Debug\net6.0-windows\Lab2Task2(RE for relational operators).deps.json
+C:\Users\pak\source\repos\Lab2Task2(RE for relational operators)\Lab2Task2(RE for relational operators)\bin\Debug\net6.0-windows\Lab2Task2(RE for relational operators).runtimeconfig.json
+C:\Users\pak\source\repos\Lab2Task2(RE for relational operators)\Lab2Task2(RE for relational operators)\bin\Debug\net6.0-windows\Lab2Task2(RE for relational operators).dll
+C:\Users\pak\source\repos\Lab2Task2(RE for relational operators)\Lab2Task2(RE for relational operators)\bin\Debug\net6.0-windows\Lab2Task2(RE for relational operators).pdb
+C:\Users\pak\source\repos\Lab2Task2(RE for relational operators)\Lab2Task2(RE for relational operators)\obj\Debug\net6.0-windows\Lab2Task2_RE_for_relational_operators_.Form1.resources
+C:\Users\pak\source\repos\Lab2Task2(RE for relational operators)\Lab2Task2(RE for relational operators)\obj\Debug\net6.0-windows\Lab2Task2(RE for relational operators).csproj.GenerateResource.cache
+C:\Users\pak\source\repos\Lab2Task2(RE for relational operators)\Lab2Task2(RE for relational operators)\obj\Debug\net6.0-windows\Lab2Task2(RE for relational operators).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pak\source\repos\Lab2Task2(RE for relational operators)\Lab2Task2(RE for relational operators)\obj\Debug\net6.0-windows\Lab2Task2(RE for relational operators).AssemblyInfoInputs.cache
+C:\Users\pak\source\repos\Lab2Task2(RE for relational operators)\Lab2Task2(RE for relational operators)\obj\Debug\net6.0-windows\Lab2Task2(RE for relational operators).AssemblyInfo.cs
+C:\Users\pak\source\repos\Lab2Task2(RE for relational operators)\Lab2Task2(RE for relational operators)\obj\Debug\net6.0-windows\Lab2Task2(RE for relational operators).csproj.CoreCompileInputs.cache
+C:\Users\pak\source\repos\Lab2Task2(RE for relational operators)\Lab2Task2(RE for relational operators)\obj\Debug\net6.0-windows\Lab2Task2(RE for relational operators).dll
+C:\Users\pak\source\repos\Lab2Task2(RE for relational operators)\Lab2Task2(RE for relational operators)\obj\Debug\net6.0-windows\refint\Lab2Task2(RE for relational operators).dll
+C:\Users\pak\source\repos\Lab2Task2(RE for relational operators)\Lab2Task2(RE for relational operators)\obj\Debug\net6.0-windows\Lab2Task2(RE for relational operators).pdb
+C:\Users\pak\source\repos\Lab2Task2(RE for relational operators)\Lab2Task2(RE for relational operators)\obj\Debug\net6.0-windows\Lab2Task2(RE for relational operators).genruntimeconfig.cache
+C:\Users\pak\source\repos\Lab2Task2(RE for relational operators)\Lab2Task2(RE for relational operators)\obj\Debug\net6.0-windows\ref\Lab2Task2(RE for relational operators).dll
