@@ -1,0 +1,16 @@
+C:\Users\pak\source\repos\Lab Mid (QuestionNo3)\Lab Mid (QuestionNo3)\bin\Debug\net6.0-windows\Lab Mid (QuestionNo3).exe
+C:\Users\pak\source\repos\Lab Mid (QuestionNo3)\Lab Mid (QuestionNo3)\bin\Debug\net6.0-windows\Lab Mid (QuestionNo3).deps.json
+C:\Users\pak\source\repos\Lab Mid (QuestionNo3)\Lab Mid (QuestionNo3)\bin\Debug\net6.0-windows\Lab Mid (QuestionNo3).runtimeconfig.json
+C:\Users\pak\source\repos\Lab Mid (QuestionNo3)\Lab Mid (QuestionNo3)\bin\Debug\net6.0-windows\Lab Mid (QuestionNo3).dll
+C:\Users\pak\source\repos\Lab Mid (QuestionNo3)\Lab Mid (QuestionNo3)\bin\Debug\net6.0-windows\Lab Mid (QuestionNo3).pdb
+C:\Users\pak\source\repos\Lab Mid (QuestionNo3)\Lab Mid (QuestionNo3)\obj\Debug\net6.0-windows\Lab_Mid__QuestionNo3_.Form1.resources
+C:\Users\pak\source\repos\Lab Mid (QuestionNo3)\Lab Mid (QuestionNo3)\obj\Debug\net6.0-windows\Lab Mid (QuestionNo3).csproj.GenerateResource.cache
+C:\Users\pak\source\repos\Lab Mid (QuestionNo3)\Lab Mid (QuestionNo3)\obj\Debug\net6.0-windows\Lab Mid (QuestionNo3).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pak\source\repos\Lab Mid (QuestionNo3)\Lab Mid (QuestionNo3)\obj\Debug\net6.0-windows\Lab Mid (QuestionNo3).AssemblyInfoInputs.cache
+C:\Users\pak\source\repos\Lab Mid (QuestionNo3)\Lab Mid (QuestionNo3)\obj\Debug\net6.0-windows\Lab Mid (QuestionNo3).AssemblyInfo.cs
+C:\Users\pak\source\repos\Lab Mid (QuestionNo3)\Lab Mid (QuestionNo3)\obj\Debug\net6.0-windows\Lab Mid (QuestionNo3).csproj.CoreCompileInputs.cache
+C:\Users\pak\source\repos\Lab Mid (QuestionNo3)\Lab Mid (QuestionNo3)\obj\Debug\net6.0-windows\Lab Mid (QuestionNo3).dll
+C:\Users\pak\source\repos\Lab Mid (QuestionNo3)\Lab Mid (QuestionNo3)\obj\Debug\net6.0-windows\refint\Lab Mid (QuestionNo3).dll
+C:\Users\pak\source\repos\Lab Mid (QuestionNo3)\Lab Mid (QuestionNo3)\obj\Debug\net6.0-windows\Lab Mid (QuestionNo3).pdb
+C:\Users\pak\source\repos\Lab Mid (QuestionNo3)\Lab Mid (QuestionNo3)\obj\Debug\net6.0-windows\Lab Mid (QuestionNo3).genruntimeconfig.cache
+C:\Users\pak\source\repos\Lab Mid (QuestionNo3)\Lab Mid (QuestionNo3)\obj\Debug\net6.0-windows\ref\Lab Mid (QuestionNo3).dll
