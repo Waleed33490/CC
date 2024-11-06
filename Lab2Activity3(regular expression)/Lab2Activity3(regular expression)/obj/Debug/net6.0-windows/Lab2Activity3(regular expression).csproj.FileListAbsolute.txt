@@ -1,0 +1,16 @@
+C:\Users\pak\source\repos\Lab2Activity3(regular expression)\Lab2Activity3(regular expression)\bin\Debug\net6.0-windows\Lab2Activity3(regular expression).exe
+C:\Users\pak\source\repos\Lab2Activity3(regular expression)\Lab2Activity3(regular expression)\bin\Debug\net6.0-windows\Lab2Activity3(regular expression).deps.json
+C:\Users\pak\source\repos\Lab2Activity3(regular expression)\Lab2Activity3(regular expression)\bin\Debug\net6.0-windows\Lab2Activity3(regular expression).runtimeconfig.json
+C:\Users\pak\source\repos\Lab2Activity3(regular expression)\Lab2Activity3(regular expression)\bin\Debug\net6.0-windows\Lab2Activity3(regular expression).dll
+C:\Users\pak\source\repos\Lab2Activity3(regular expression)\Lab2Activity3(regular expression)\bin\Debug\net6.0-windows\Lab2Activity3(regular expression).pdb
+C:\Users\pak\source\repos\Lab2Activity3(regular expression)\Lab2Activity3(regular expression)\obj\Debug\net6.0-windows\Lab2Activity3_regular_expression_.Form1.resources
+C:\Users\pak\source\repos\Lab2Activity3(regular expression)\Lab2Activity3(regular expression)\obj\Debug\net6.0-windows\Lab2Activity3(regular expression).csproj.GenerateResource.cache
+C:\Users\pak\source\repos\Lab2Activity3(regular expression)\Lab2Activity3(regular expression)\obj\Debug\net6.0-windows\Lab2Activity3(regular expression).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pak\source\repos\Lab2Activity3(regular expression)\Lab2Activity3(regular expression)\obj\Debug\net6.0-windows\Lab2Activity3(regular expression).AssemblyInfoInputs.cache
+C:\Users\pak\source\repos\Lab2Activity3(regular expression)\Lab2Activity3(regular expression)\obj\Debug\net6.0-windows\Lab2Activity3(regular expression).AssemblyInfo.cs
+C:\Users\pak\source\repos\Lab2Activity3(regular expression)\Lab2Activity3(regular expression)\obj\Debug\net6.0-windows\Lab2Activity3(regular expression).csproj.CoreCompileInputs.cache
+C:\Users\pak\source\repos\Lab2Activity3(regular expression)\Lab2Activity3(regular expression)\obj\Debug\net6.0-windows\Lab2Activity3(regular expression).dll
+C:\Users\pak\source\repos\Lab2Activity3(regular expression)\Lab2Activity3(regular expression)\obj\Debug\net6.0-windows\refint\Lab2Activity3(regular expression).dll
+C:\Users\pak\source\repos\Lab2Activity3(regular expression)\Lab2Activity3(regular expression)\obj\Debug\net6.0-windows\Lab2Activity3(regular expression).pdb
+C:\Users\pak\source\repos\Lab2Activity3(regular expression)\Lab2Activity3(regular expression)\obj\Debug\net6.0-windows\Lab2Activity3(regular expression).genruntimeconfig.cache
+C:\Users\pak\source\repos\Lab2Activity3(regular expression)\Lab2Activity3(regular expression)\obj\Debug\net6.0-windows\ref\Lab2Activity3(regular expression).dll
