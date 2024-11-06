@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Lab7Activity1 (follow sets of variables)/1.0.0": {
+        "runtime": {
+          "Lab7Activity1 (follow sets of variables).dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Lab7Activity1 (follow sets of variables)/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

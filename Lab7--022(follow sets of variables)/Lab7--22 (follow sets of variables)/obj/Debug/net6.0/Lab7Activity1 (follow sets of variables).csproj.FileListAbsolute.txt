@@ -1,0 +1,14 @@
+C:\Users\pak\source\repos\Lab7Activity1 (follow sets of variables)\Lab7Activity1 (follow sets of variables)\obj\Debug\net6.0\Lab7Activity1 (follow sets of variables).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pak\source\repos\Lab7Activity1 (follow sets of variables)\Lab7Activity1 (follow sets of variables)\obj\Debug\net6.0\Lab7Activity1 (follow sets of variables).AssemblyInfoInputs.cache
+C:\Users\pak\source\repos\Lab7Activity1 (follow sets of variables)\Lab7Activity1 (follow sets of variables)\obj\Debug\net6.0\Lab7Activity1 (follow sets of variables).AssemblyInfo.cs
+C:\Users\pak\source\repos\Lab7Activity1 (follow sets of variables)\Lab7Activity1 (follow sets of variables)\obj\Debug\net6.0\Lab7Activity1 (follow sets of variables).csproj.CoreCompileInputs.cache
+C:\Users\pak\source\repos\Lab7Activity1 (follow sets of variables)\Lab7Activity1 (follow sets of variables)\bin\Debug\net6.0\Lab7Activity1 (follow sets of variables).exe
+C:\Users\pak\source\repos\Lab7Activity1 (follow sets of variables)\Lab7Activity1 (follow sets of variables)\bin\Debug\net6.0\Lab7Activity1 (follow sets of variables).deps.json
+C:\Users\pak\source\repos\Lab7Activity1 (follow sets of variables)\Lab7Activity1 (follow sets of variables)\bin\Debug\net6.0\Lab7Activity1 (follow sets of variables).runtimeconfig.json
+C:\Users\pak\source\repos\Lab7Activity1 (follow sets of variables)\Lab7Activity1 (follow sets of variables)\bin\Debug\net6.0\Lab7Activity1 (follow sets of variables).dll
+C:\Users\pak\source\repos\Lab7Activity1 (follow sets of variables)\Lab7Activity1 (follow sets of variables)\bin\Debug\net6.0\Lab7Activity1 (follow sets of variables).pdb
+C:\Users\pak\source\repos\Lab7Activity1 (follow sets of variables)\Lab7Activity1 (follow sets of variables)\obj\Debug\net6.0\Lab7Activity1 (follow sets of variables).dll
+C:\Users\pak\source\repos\Lab7Activity1 (follow sets of variables)\Lab7Activity1 (follow sets of variables)\obj\Debug\net6.0\refint\Lab7Activity1 (follow sets of variables).dll
+C:\Users\pak\source\repos\Lab7Activity1 (follow sets of variables)\Lab7Activity1 (follow sets of variables)\obj\Debug\net6.0\Lab7Activity1 (follow sets of variables).pdb
+C:\Users\pak\source\repos\Lab7Activity1 (follow sets of variables)\Lab7Activity1 (follow sets of variables)\obj\Debug\net6.0\Lab7Activity1 (follow sets of variables).genruntimeconfig.cache
+C:\Users\pak\source\repos\Lab7Activity1 (follow sets of variables)\Lab7Activity1 (follow sets of variables)\obj\Debug\net6.0\ref\Lab7Activity1 (follow sets of variables).dll
