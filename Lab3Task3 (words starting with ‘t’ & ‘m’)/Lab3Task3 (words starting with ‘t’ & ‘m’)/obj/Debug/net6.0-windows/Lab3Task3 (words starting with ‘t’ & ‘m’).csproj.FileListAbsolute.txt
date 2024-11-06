@@ -1,0 +1,16 @@
+C:\Users\pak\source\repos\Lab3Task3 (words starting with ‘t’ & ‘m’)\Lab3Task3 (words starting with ‘t’ & ‘m’)\bin\Debug\net6.0-windows\Lab3Task3 (words starting with ‘t’ & ‘m’).exe
+C:\Users\pak\source\repos\Lab3Task3 (words starting with ‘t’ & ‘m’)\Lab3Task3 (words starting with ‘t’ & ‘m’)\bin\Debug\net6.0-windows\Lab3Task3 (words starting with ‘t’ & ‘m’).deps.json
+C:\Users\pak\source\repos\Lab3Task3 (words starting with ‘t’ & ‘m’)\Lab3Task3 (words starting with ‘t’ & ‘m’)\bin\Debug\net6.0-windows\Lab3Task3 (words starting with ‘t’ & ‘m’).runtimeconfig.json
+C:\Users\pak\source\repos\Lab3Task3 (words starting with ‘t’ & ‘m’)\Lab3Task3 (words starting with ‘t’ & ‘m’)\bin\Debug\net6.0-windows\Lab3Task3 (words starting with ‘t’ & ‘m’).dll
+C:\Users\pak\source\repos\Lab3Task3 (words starting with ‘t’ & ‘m’)\Lab3Task3 (words starting with ‘t’ & ‘m’)\bin\Debug\net6.0-windows\Lab3Task3 (words starting with ‘t’ & ‘m’).pdb
+C:\Users\pak\source\repos\Lab3Task3 (words starting with ‘t’ & ‘m’)\Lab3Task3 (words starting with ‘t’ & ‘m’)\obj\Debug\net6.0-windows\Lab3Task3__words_starting_with__t_____m__.Form1.resources
+C:\Users\pak\source\repos\Lab3Task3 (words starting with ‘t’ & ‘m’)\Lab3Task3 (words starting with ‘t’ & ‘m’)\obj\Debug\net6.0-windows\Lab3Task3 (words starting with ‘t’ & ‘m’).csproj.GenerateResource.cache
+C:\Users\pak\source\repos\Lab3Task3 (words starting with ‘t’ & ‘m’)\Lab3Task3 (words starting with ‘t’ & ‘m’)\obj\Debug\net6.0-windows\Lab3Task3 (words starting with ‘t’ & ‘m’).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pak\source\repos\Lab3Task3 (words starting with ‘t’ & ‘m’)\Lab3Task3 (words starting with ‘t’ & ‘m’)\obj\Debug\net6.0-windows\Lab3Task3 (words starting with ‘t’ & ‘m’).AssemblyInfoInputs.cache
+C:\Users\pak\source\repos\Lab3Task3 (words starting with ‘t’ & ‘m’)\Lab3Task3 (words starting with ‘t’ & ‘m’)\obj\Debug\net6.0-windows\Lab3Task3 (words starting with ‘t’ & ‘m’).AssemblyInfo.cs
+C:\Users\pak\source\repos\Lab3Task3 (words starting with ‘t’ & ‘m’)\Lab3Task3 (words starting with ‘t’ & ‘m’)\obj\Debug\net6.0-windows\Lab3Task3 (words starting with ‘t’ & ‘m’).csproj.CoreCompileInputs.cache
+C:\Users\pak\source\repos\Lab3Task3 (words starting with ‘t’ & ‘m’)\Lab3Task3 (words starting with ‘t’ & ‘m’)\obj\Debug\net6.0-windows\Lab3Task3 (words starting with ‘t’ & ‘m’).dll
+C:\Users\pak\source\repos\Lab3Task3 (words starting with ‘t’ & ‘m’)\Lab3Task3 (words starting with ‘t’ & ‘m’)\obj\Debug\net6.0-windows\refint\Lab3Task3 (words starting with ‘t’ & ‘m’).dll
+C:\Users\pak\source\repos\Lab3Task3 (words starting with ‘t’ & ‘m’)\Lab3Task3 (words starting with ‘t’ & ‘m’)\obj\Debug\net6.0-windows\Lab3Task3 (words starting with ‘t’ & ‘m’).pdb
+C:\Users\pak\source\repos\Lab3Task3 (words starting with ‘t’ & ‘m’)\Lab3Task3 (words starting with ‘t’ & ‘m’)\obj\Debug\net6.0-windows\Lab3Task3 (words starting with ‘t’ & ‘m’).genruntimeconfig.cache
+C:\Users\pak\source\repos\Lab3Task3 (words starting with ‘t’ & ‘m’)\Lab3Task3 (words starting with ‘t’ & ‘m’)\obj\Debug\net6.0-windows\ref\Lab3Task3 (words starting with ‘t’ & ‘m’).dll
