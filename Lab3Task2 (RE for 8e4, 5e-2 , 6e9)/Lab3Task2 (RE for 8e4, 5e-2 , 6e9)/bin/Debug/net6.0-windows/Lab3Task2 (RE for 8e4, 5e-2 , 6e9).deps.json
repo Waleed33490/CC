@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Lab3Task2 (RE for 8e4, 5e-2 , 6e9)/1.0.0": {
+        "runtime": {
+          "Lab3Task2 (RE for 8e4, 5e-2 , 6e9).dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Lab3Task2 (RE for 8e4, 5e-2 , 6e9)/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

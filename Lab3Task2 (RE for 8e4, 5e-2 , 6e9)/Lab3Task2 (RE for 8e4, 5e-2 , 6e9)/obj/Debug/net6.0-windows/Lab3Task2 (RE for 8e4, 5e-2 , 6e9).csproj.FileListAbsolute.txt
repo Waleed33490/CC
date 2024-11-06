@@ -1,0 +1,16 @@
+C:\Users\pak\source\repos\Lab3Task2 (RE for 8e4, 5e-2 , 6e9)\Lab3Task2 (RE for 8e4, 5e-2 , 6e9)\bin\Debug\net6.0-windows\Lab3Task2 (RE for 8e4, 5e-2 , 6e9).exe
+C:\Users\pak\source\repos\Lab3Task2 (RE for 8e4, 5e-2 , 6e9)\Lab3Task2 (RE for 8e4, 5e-2 , 6e9)\bin\Debug\net6.0-windows\Lab3Task2 (RE for 8e4, 5e-2 , 6e9).deps.json
+C:\Users\pak\source\repos\Lab3Task2 (RE for 8e4, 5e-2 , 6e9)\Lab3Task2 (RE for 8e4, 5e-2 , 6e9)\bin\Debug\net6.0-windows\Lab3Task2 (RE for 8e4, 5e-2 , 6e9).runtimeconfig.json
+C:\Users\pak\source\repos\Lab3Task2 (RE for 8e4, 5e-2 , 6e9)\Lab3Task2 (RE for 8e4, 5e-2 , 6e9)\bin\Debug\net6.0-windows\Lab3Task2 (RE for 8e4, 5e-2 , 6e9).dll
+C:\Users\pak\source\repos\Lab3Task2 (RE for 8e4, 5e-2 , 6e9)\Lab3Task2 (RE for 8e4, 5e-2 , 6e9)\bin\Debug\net6.0-windows\Lab3Task2 (RE for 8e4, 5e-2 , 6e9).pdb
+C:\Users\pak\source\repos\Lab3Task2 (RE for 8e4, 5e-2 , 6e9)\Lab3Task2 (RE for 8e4, 5e-2 , 6e9)\obj\Debug\net6.0-windows\Lab3Task2__RE_for_8e4__5e_2___6e9_.Form1.resources
+C:\Users\pak\source\repos\Lab3Task2 (RE for 8e4, 5e-2 , 6e9)\Lab3Task2 (RE for 8e4, 5e-2 , 6e9)\obj\Debug\net6.0-windows\Lab3Task2 (RE for 8e4, 5e-2 , 6e9).csproj.GenerateResource.cache
+C:\Users\pak\source\repos\Lab3Task2 (RE for 8e4, 5e-2 , 6e9)\Lab3Task2 (RE for 8e4, 5e-2 , 6e9)\obj\Debug\net6.0-windows\Lab3Task2 (RE for 8e4, 5e-2 , 6e9).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pak\source\repos\Lab3Task2 (RE for 8e4, 5e-2 , 6e9)\Lab3Task2 (RE for 8e4, 5e-2 , 6e9)\obj\Debug\net6.0-windows\Lab3Task2 (RE for 8e4, 5e-2 , 6e9).AssemblyInfoInputs.cache
+C:\Users\pak\source\repos\Lab3Task2 (RE for 8e4, 5e-2 , 6e9)\Lab3Task2 (RE for 8e4, 5e-2 , 6e9)\obj\Debug\net6.0-windows\Lab3Task2 (RE for 8e4, 5e-2 , 6e9).AssemblyInfo.cs
+C:\Users\pak\source\repos\Lab3Task2 (RE for 8e4, 5e-2 , 6e9)\Lab3Task2 (RE for 8e4, 5e-2 , 6e9)\obj\Debug\net6.0-windows\Lab3Task2 (RE for 8e4, 5e-2 , 6e9).csproj.CoreCompileInputs.cache
+C:\Users\pak\source\repos\Lab3Task2 (RE for 8e4, 5e-2 , 6e9)\Lab3Task2 (RE for 8e4, 5e-2 , 6e9)\obj\Debug\net6.0-windows\Lab3Task2 (RE for 8e4, 5e-2 , 6e9).dll
+C:\Users\pak\source\repos\Lab3Task2 (RE for 8e4, 5e-2 , 6e9)\Lab3Task2 (RE for 8e4, 5e-2 , 6e9)\obj\Debug\net6.0-windows\refint\Lab3Task2 (RE for 8e4, 5e-2 , 6e9).dll
+C:\Users\pak\source\repos\Lab3Task2 (RE for 8e4, 5e-2 , 6e9)\Lab3Task2 (RE for 8e4, 5e-2 , 6e9)\obj\Debug\net6.0-windows\Lab3Task2 (RE for 8e4, 5e-2 , 6e9).pdb
+C:\Users\pak\source\repos\Lab3Task2 (RE for 8e4, 5e-2 , 6e9)\Lab3Task2 (RE for 8e4, 5e-2 , 6e9)\obj\Debug\net6.0-windows\Lab3Task2 (RE for 8e4, 5e-2 , 6e9).genruntimeconfig.cache
+C:\Users\pak\source\repos\Lab3Task2 (RE for 8e4, 5e-2 , 6e9)\Lab3Task2 (RE for 8e4, 5e-2 , 6e9)\obj\Debug\net6.0-windows\ref\Lab3Task2 (RE for 8e4, 5e-2 , 6e9).dll
