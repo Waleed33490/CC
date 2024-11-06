@@ -1,0 +1,16 @@
+C:\Users\pak\source\repos\Lab2Task1(RE for logical operators)\Lab2Task1(RE for logical operators)\bin\Debug\net6.0-windows\Lab2Task1(RE for logical operators).exe
+C:\Users\pak\source\repos\Lab2Task1(RE for logical operators)\Lab2Task1(RE for logical operators)\bin\Debug\net6.0-windows\Lab2Task1(RE for logical operators).deps.json
+C:\Users\pak\source\repos\Lab2Task1(RE for logical operators)\Lab2Task1(RE for logical operators)\bin\Debug\net6.0-windows\Lab2Task1(RE for logical operators).runtimeconfig.json
+C:\Users\pak\source\repos\Lab2Task1(RE for logical operators)\Lab2Task1(RE for logical operators)\bin\Debug\net6.0-windows\Lab2Task1(RE for logical operators).dll
+C:\Users\pak\source\repos\Lab2Task1(RE for logical operators)\Lab2Task1(RE for logical operators)\bin\Debug\net6.0-windows\Lab2Task1(RE for logical operators).pdb
+C:\Users\pak\source\repos\Lab2Task1(RE for logical operators)\Lab2Task1(RE for logical operators)\obj\Debug\net6.0-windows\Lab2Task1_RE_for_logical_operators_.Form1.resources
+C:\Users\pak\source\repos\Lab2Task1(RE for logical operators)\Lab2Task1(RE for logical operators)\obj\Debug\net6.0-windows\Lab2Task1(RE for logical operators).csproj.GenerateResource.cache
+C:\Users\pak\source\repos\Lab2Task1(RE for logical operators)\Lab2Task1(RE for logical operators)\obj\Debug\net6.0-windows\Lab2Task1(RE for logical operators).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pak\source\repos\Lab2Task1(RE for logical operators)\Lab2Task1(RE for logical operators)\obj\Debug\net6.0-windows\Lab2Task1(RE for logical operators).AssemblyInfoInputs.cache
+C:\Users\pak\source\repos\Lab2Task1(RE for logical operators)\Lab2Task1(RE for logical operators)\obj\Debug\net6.0-windows\Lab2Task1(RE for logical operators).AssemblyInfo.cs
+C:\Users\pak\source\repos\Lab2Task1(RE for logical operators)\Lab2Task1(RE for logical operators)\obj\Debug\net6.0-windows\Lab2Task1(RE for logical operators).csproj.CoreCompileInputs.cache
+C:\Users\pak\source\repos\Lab2Task1(RE for logical operators)\Lab2Task1(RE for logical operators)\obj\Debug\net6.0-windows\Lab2Task1(RE for logical operators).dll
+C:\Users\pak\source\repos\Lab2Task1(RE for logical operators)\Lab2Task1(RE for logical operators)\obj\Debug\net6.0-windows\refint\Lab2Task1(RE for logical operators).dll
+C:\Users\pak\source\repos\Lab2Task1(RE for logical operators)\Lab2Task1(RE for logical operators)\obj\Debug\net6.0-windows\Lab2Task1(RE for logical operators).pdb
+C:\Users\pak\source\repos\Lab2Task1(RE for logical operators)\Lab2Task1(RE for logical operators)\obj\Debug\net6.0-windows\Lab2Task1(RE for logical operators).genruntimeconfig.cache
+C:\Users\pak\source\repos\Lab2Task1(RE for logical operators)\Lab2Task1(RE for logical operators)\obj\Debug\net6.0-windows\ref\Lab2Task1(RE for logical operators).dll
