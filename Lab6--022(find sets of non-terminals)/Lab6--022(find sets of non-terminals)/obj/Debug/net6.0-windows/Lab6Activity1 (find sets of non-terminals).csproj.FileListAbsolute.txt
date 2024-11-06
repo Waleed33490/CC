@@ -1,0 +1,16 @@
+C:\Users\pak\source\repos\Lab6Activity1 (find sets of non-terminals)\Lab6Activity1 (find sets of non-terminals)\bin\Debug\net6.0-windows\Lab6Activity1 (find sets of non-terminals).exe
+C:\Users\pak\source\repos\Lab6Activity1 (find sets of non-terminals)\Lab6Activity1 (find sets of non-terminals)\bin\Debug\net6.0-windows\Lab6Activity1 (find sets of non-terminals).deps.json
+C:\Users\pak\source\repos\Lab6Activity1 (find sets of non-terminals)\Lab6Activity1 (find sets of non-terminals)\bin\Debug\net6.0-windows\Lab6Activity1 (find sets of non-terminals).runtimeconfig.json
+C:\Users\pak\source\repos\Lab6Activity1 (find sets of non-terminals)\Lab6Activity1 (find sets of non-terminals)\bin\Debug\net6.0-windows\Lab6Activity1 (find sets of non-terminals).dll
+C:\Users\pak\source\repos\Lab6Activity1 (find sets of non-terminals)\Lab6Activity1 (find sets of non-terminals)\bin\Debug\net6.0-windows\Lab6Activity1 (find sets of non-terminals).pdb
+C:\Users\pak\source\repos\Lab6Activity1 (find sets of non-terminals)\Lab6Activity1 (find sets of non-terminals)\obj\Debug\net6.0-windows\Lab6Activity1__find_sets_of_non_terminals_.Form1.resources
+C:\Users\pak\source\repos\Lab6Activity1 (find sets of non-terminals)\Lab6Activity1 (find sets of non-terminals)\obj\Debug\net6.0-windows\Lab6Activity1 (find sets of non-terminals).csproj.GenerateResource.cache
+C:\Users\pak\source\repos\Lab6Activity1 (find sets of non-terminals)\Lab6Activity1 (find sets of non-terminals)\obj\Debug\net6.0-windows\Lab6Activity1 (find sets of non-terminals).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pak\source\repos\Lab6Activity1 (find sets of non-terminals)\Lab6Activity1 (find sets of non-terminals)\obj\Debug\net6.0-windows\Lab6Activity1 (find sets of non-terminals).AssemblyInfoInputs.cache
+C:\Users\pak\source\repos\Lab6Activity1 (find sets of non-terminals)\Lab6Activity1 (find sets of non-terminals)\obj\Debug\net6.0-windows\Lab6Activity1 (find sets of non-terminals).AssemblyInfo.cs
+C:\Users\pak\source\repos\Lab6Activity1 (find sets of non-terminals)\Lab6Activity1 (find sets of non-terminals)\obj\Debug\net6.0-windows\Lab6Activity1 (find sets of non-terminals).csproj.CoreCompileInputs.cache
+C:\Users\pak\source\repos\Lab6Activity1 (find sets of non-terminals)\Lab6Activity1 (find sets of non-terminals)\obj\Debug\net6.0-windows\Lab6Activity1 (find sets of non-terminals).dll
+C:\Users\pak\source\repos\Lab6Activity1 (find sets of non-terminals)\Lab6Activity1 (find sets of non-terminals)\obj\Debug\net6.0-windows\refint\Lab6Activity1 (find sets of non-terminals).dll
+C:\Users\pak\source\repos\Lab6Activity1 (find sets of non-terminals)\Lab6Activity1 (find sets of non-terminals)\obj\Debug\net6.0-windows\Lab6Activity1 (find sets of non-terminals).pdb
+C:\Users\pak\source\repos\Lab6Activity1 (find sets of non-terminals)\Lab6Activity1 (find sets of non-terminals)\obj\Debug\net6.0-windows\Lab6Activity1 (find sets of non-terminals).genruntimeconfig.cache
+C:\Users\pak\source\repos\Lab6Activity1 (find sets of non-terminals)\Lab6Activity1 (find sets of non-terminals)\obj\Debug\net6.0-windows\ref\Lab6Activity1 (find sets of non-terminals).dll
