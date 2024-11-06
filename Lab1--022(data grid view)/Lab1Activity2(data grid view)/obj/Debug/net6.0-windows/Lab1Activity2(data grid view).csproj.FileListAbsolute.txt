@@ -1,0 +1,16 @@
+C:\Users\pak\source\repos\Lab1Activity2(data grid view)\Lab1Activity2(data grid view)\bin\Debug\net6.0-windows\Lab1Activity2(data grid view).exe
+C:\Users\pak\source\repos\Lab1Activity2(data grid view)\Lab1Activity2(data grid view)\bin\Debug\net6.0-windows\Lab1Activity2(data grid view).deps.json
+C:\Users\pak\source\repos\Lab1Activity2(data grid view)\Lab1Activity2(data grid view)\bin\Debug\net6.0-windows\Lab1Activity2(data grid view).runtimeconfig.json
+C:\Users\pak\source\repos\Lab1Activity2(data grid view)\Lab1Activity2(data grid view)\bin\Debug\net6.0-windows\Lab1Activity2(data grid view).dll
+C:\Users\pak\source\repos\Lab1Activity2(data grid view)\Lab1Activity2(data grid view)\bin\Debug\net6.0-windows\Lab1Activity2(data grid view).pdb
+C:\Users\pak\source\repos\Lab1Activity2(data grid view)\Lab1Activity2(data grid view)\obj\Debug\net6.0-windows\Lab1Activity2_data_grid_view_.Form1.resources
+C:\Users\pak\source\repos\Lab1Activity2(data grid view)\Lab1Activity2(data grid view)\obj\Debug\net6.0-windows\Lab1Activity2(data grid view).csproj.GenerateResource.cache
+C:\Users\pak\source\repos\Lab1Activity2(data grid view)\Lab1Activity2(data grid view)\obj\Debug\net6.0-windows\Lab1Activity2(data grid view).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pak\source\repos\Lab1Activity2(data grid view)\Lab1Activity2(data grid view)\obj\Debug\net6.0-windows\Lab1Activity2(data grid view).AssemblyInfoInputs.cache
+C:\Users\pak\source\repos\Lab1Activity2(data grid view)\Lab1Activity2(data grid view)\obj\Debug\net6.0-windows\Lab1Activity2(data grid view).AssemblyInfo.cs
+C:\Users\pak\source\repos\Lab1Activity2(data grid view)\Lab1Activity2(data grid view)\obj\Debug\net6.0-windows\Lab1Activity2(data grid view).csproj.CoreCompileInputs.cache
+C:\Users\pak\source\repos\Lab1Activity2(data grid view)\Lab1Activity2(data grid view)\obj\Debug\net6.0-windows\Lab1Activity2(data grid view).dll
+C:\Users\pak\source\repos\Lab1Activity2(data grid view)\Lab1Activity2(data grid view)\obj\Debug\net6.0-windows\refint\Lab1Activity2(data grid view).dll
+C:\Users\pak\source\repos\Lab1Activity2(data grid view)\Lab1Activity2(data grid view)\obj\Debug\net6.0-windows\Lab1Activity2(data grid view).pdb
+C:\Users\pak\source\repos\Lab1Activity2(data grid view)\Lab1Activity2(data grid view)\obj\Debug\net6.0-windows\Lab1Activity2(data grid view).genruntimeconfig.cache
+C:\Users\pak\source\repos\Lab1Activity2(data grid view)\Lab1Activity2(data grid view)\obj\Debug\net6.0-windows\ref\Lab1Activity2(data grid view).dll

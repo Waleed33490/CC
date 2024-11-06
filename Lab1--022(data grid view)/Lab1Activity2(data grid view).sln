@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34024.191
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab1Activity2(data grid view)", "Lab1Activity2(data grid view)\Lab1Activity2(data grid view).csproj", "{9D9D37FB-6753-4641-AF0C-D25AB8445D07}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9D9D37FB-6753-4641-AF0C-D25AB8445D07}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9D9D37FB-6753-4641-AF0C-D25AB8445D07}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9D9D37FB-6753-4641-AF0C-D25AB8445D07}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9D9D37FB-6753-4641-AF0C-D25AB8445D07}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DF0F266D-8F28-4B71-BAAA-82A57D1010AF}
+	EndGlobalSection
+EndGlobal
