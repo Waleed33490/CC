@@ -1,0 +1,14 @@
+C:\Users\wa490\source\repos\labAssig-3\labAssig-3\bin\Debug\net8.0\labAssig-3.exe
+C:\Users\wa490\source\repos\labAssig-3\labAssig-3\bin\Debug\net8.0\labAssig-3.deps.json
+C:\Users\wa490\source\repos\labAssig-3\labAssig-3\bin\Debug\net8.0\labAssig-3.runtimeconfig.json
+C:\Users\wa490\source\repos\labAssig-3\labAssig-3\bin\Debug\net8.0\labAssig-3.dll
+C:\Users\wa490\source\repos\labAssig-3\labAssig-3\bin\Debug\net8.0\labAssig-3.pdb
+C:\Users\wa490\source\repos\labAssig-3\labAssig-3\obj\Debug\net8.0\labAssig-3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wa490\source\repos\labAssig-3\labAssig-3\obj\Debug\net8.0\labAssig-3.AssemblyInfoInputs.cache
+C:\Users\wa490\source\repos\labAssig-3\labAssig-3\obj\Debug\net8.0\labAssig-3.AssemblyInfo.cs
+C:\Users\wa490\source\repos\labAssig-3\labAssig-3\obj\Debug\net8.0\labAssig-3.csproj.CoreCompileInputs.cache
+C:\Users\wa490\source\repos\labAssig-3\labAssig-3\obj\Debug\net8.0\labAssig-3.dll
+C:\Users\wa490\source\repos\labAssig-3\labAssig-3\obj\Debug\net8.0\refint\labAssig-3.dll
+C:\Users\wa490\source\repos\labAssig-3\labAssig-3\obj\Debug\net8.0\labAssig-3.pdb
+C:\Users\wa490\source\repos\labAssig-3\labAssig-3\obj\Debug\net8.0\labAssig-3.genruntimeconfig.cache
+C:\Users\wa490\source\repos\labAssig-3\labAssig-3\obj\Debug\net8.0\ref\labAssig-3.dll
